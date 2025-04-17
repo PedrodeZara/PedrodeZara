@@ -9,27 +9,28 @@
 [![instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/pedro_rzara/)
 
 <div> <br>
-<div style="display:flex; justify-content:center;">
+<div display="flex" justify-content="center" width="50px">
 
 ![Zara GitHub stats](https://github-readme-stats.vercel.app/api?username=PedrodeZara&show_icons=true&theme=tokyonight)
-![Zara Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=PedrodeZara&theme=tokyonight)
-
+![Zara Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=PedrodeZara&theme=tokyonight&hide=html,css)
 </div>
 
 ## Tecnologias 
-<div style="display: inline_block"><br>
-<img aling=center alt="git" src="https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white">
-<img aling=center alt="html5" src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white">
-<img aling=center alt="css" src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white">
+<div display= "inline_block" gap="20px"><br>
+<img aling=center height="40px" width="50px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" />
+<img aling=center height="40px" width="50px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" />
+<img aling=center height="40px" width="50px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg" />
+<img aling=center height="40px" width="50px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" />
+          
 </div><br>
 
 ## Aprendendo: 
-
-<div style="display: inline_block"><br>
-<img aling=center alt="javascript" src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E">
-<img aling=center alt="c#" src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white">
-<img aling=center alt="php" src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white">
-<img aling=center alt="c#" src="https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white">
+<div display="inline_block" gap="20px"><br>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original.svg" aling="center" height="40px" width="50px" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/csharp/csharp-original.svg" aling="center" height="40px" width="50px" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original-wordmark.svg" aling="center" height="40px" width="50px" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/php/php-original.svg" aling="center" height="40px" width="50px" />
+          
 
 </div><br>
 
