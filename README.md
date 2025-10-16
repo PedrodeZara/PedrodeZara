@@ -21,16 +21,13 @@
 <img aling=center height="40px" width="50px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" />
 <img aling=center height="40px" width="50px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg" />
 <img aling=center height="40px" width="50px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" />
-          
-</div><br>
-
-## Aprendendo: 
-<div display="inline_block" gap="20px"><br>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original.svg" aling="center" height="40px" width="50px" />
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/csharp/csharp-original.svg" aling="center" height="40px" width="50px" />
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original-wordmark.svg" aling="center" height="40px" width="50px" />
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/php/php-original.svg" aling="center" height="40px" width="50px" />
           
+</div><br>
+
 
 </div><br>
 
