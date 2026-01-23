@@ -1,5 +1,5 @@
 ### Olá, eu sou Pedro Zara 😉
-- Estudante da Escola Técnica Estadual Juscelino Kubitschek de Oliveira 🎓
+- Formado em desenvolvimento de sistemas pela Escola Técnica Estadual Juscelino Kubitschek de Oliveira 🎓
 - Futuro programador 💼
 
 #
