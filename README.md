@@ -5,18 +5,29 @@
 #
 <div style="display:flex; align-items:center; justify-content:center;"> <br>
 
-[![linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/pedro-zara-25a94b322/) 
-[![instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/pedro_rzara/)
 
-<div> <br>
+<div> 
 <div display="flex" justify-content="center" width="50px">
 
-![Zara GitHub stats](https://github-readme-stats.vercel.app/api?username=PedrodeZara&show_icons=true&theme=tokyonight)
-![Zara Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=PedrodeZara&theme=tokyonight&hide=html,css)
+<div align="center">
+  <img src="https://streak-stats.demolab.com?user=PedrodeZara&locale=en&mode=daily&theme=javascript-dark&hide_border=false&border_radius=5&order=3" height="220" alt="streak graph"  />
+</div>
+
+<br>
+
+<div align="center">
+  <a href="https://www.linkedin.com/in/pedro-zara-25a94b322/" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="linkedin logo"  />
+  </a>
+  <a href="https://www.instagram.com/pedro_rzara/" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="instagram logo"  />
+  </a>
+</div>
+
 </div>
 
 ## Tecnologias 
-<div display= "inline_block" gap="20px"><br>
+<div display= "inline_block" align="center" gap="20px"><br>
 <img aling=center height="40px" width="50px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" />
 <img aling=center height="40px" width="50px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" />
 <img aling=center height="40px" width="50px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg" />
