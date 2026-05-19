@@ -1,6 +1,6 @@
 ### Olá, eu sou Pedro Zara 😉
-- Formado em desenvolvimento de sistemas pela Escola Técnica Estadual Juscelino Kubitschek de Oliveira 🎓
-- Futuro programador 💼
+ Formado em Desenvolvimento de Sistemas e graduando em Engenharia de Software, com experiência em Desenvolvimento Web Full Stack utilizando Ecossistema React, JavaScript e PHP. Possuo conhecimentos em MySQL, Docker, Linux e redes, além de desenvolver projetos próprios com integração de REST APIs  e banco de dados SQL. Em busca de experiência e no desenvolvimento soluções eficientes e de alto desempenho para aplicar e expandir meus conhecimentos. </br></br>
+ Futuro programador 💼
 
 #
 <div style="display:flex; align-items:center; justify-content:center;"> <br>
